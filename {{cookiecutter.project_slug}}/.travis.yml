@@ -4,8 +4,5 @@ sudo: required
 python:
     - "3.7"
 
-before_install:
-    - tar xvf .env.tar
-
 script:
 - make something
