@@ -1,5 +1,5 @@
 {
-  "full_name": "Revenants CIE",
+  "full_name": "RevDB",
   "project_name": "Empty Repo Boilerplate",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
   "project_short_description": "Empty general purpose repo"
